@@ -1,1 +1,2 @@
-# STARTKIT_demystify_firstline_Internet_companies_Front-endjs_senior_interview
+# interview_start_kit
+
